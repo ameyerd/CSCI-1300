@@ -1,0 +1,272 @@
+Welcome to Jeopardy Dice!
+ 
+It is now human's turn 
+ 
+Do you want to roll a dice (Y/N)?: 
+y
+You rolled a 2
+Your turn total is 0
+computer: 0
+human: 0
+ 
+It is now computer's turn 
+ 
+Computer rolled a 5
+computer: 0
+human: 0
+ 
+It is now human's turn 
+ 
+Do you want to roll a dice (Y/N)?: 
+y
+You rolled a 4
+Your turn total is 15
+computer: 0
+human: 15
+ 
+It is now computer's turn 
+ 
+Computer rolled a 2
+computer: 0
+human: 15
+ 
+It is now human's turn 
+ 
+Do you want to roll a dice (Y/N)?: 
+y
+You rolled a 6
+Your turn total is 6
+Do you want to roll again (Y/N)?: 
+y
+You rolled a 2
+Your turn total is 0
+computer: 0
+human: 15
+ 
+It is now computer's turn 
+ 
+Computer rolled a 5
+computer: 0
+human: 15
+ 
+It is now human's turn 
+ 
+Do you want to roll a dice (Y/N)?: 
+y
+You rolled a 1
+Your turn total is 1
+Do you want to roll again (Y/N)?: 
+y
+You rolled a 4
+Your turn total is 15
+computer: 0
+human: 30
+ 
+It is now computer's turn 
+ 
+Computer rolled a 2
+computer: 0
+human: 30
+ 
+It is now human's turn 
+ 
+Do you want to roll a dice (Y/N)?: 
+y
+You rolled a 3
+Your turn total is 3
+Do you want to roll again (Y/N)?: 
+y
+You rolled a 2
+Your turn total is 0
+computer: 0
+human: 30
+ 
+It is now computer's turn 
+ 
+Computer rolled a 3
+Computer turn total is 3
+Computer rolled a 2
+computer: 0
+human: 30
+ 
+It is now human's turn 
+ 
+Do you want to roll a dice (Y/N)?: 
+y
+You rolled a 6
+Your turn total is 6
+Do you want to roll again (Y/N)?: 
+y
+You rolled a 5
+Your turn total is 0
+computer: 0
+human: 30
+ 
+It is now computer's turn 
+ 
+Computer rolled a 1
+Computer turn total is 1
+Computer rolled a 1
+Computer turn total is 2
+Computer rolled a 5
+computer: 0
+human: 30
+ 
+It is now human's turn 
+ 
+Do you want to roll a dice (Y/N)?: 
+n
+computer: 0
+human: 30
+ 
+It is now computer's turn 
+ 
+Computer rolled a 5
+computer: 0
+human: 30
+ 
+It is now human's turn 
+ 
+Do you want to roll a dice (Y/N)?: 
+y
+You rolled a 6
+Your turn total is 6
+Do you want to roll again (Y/N)?: 
+n
+computer: 0
+human: 36
+ 
+It is now computer's turn 
+ 
+Computer rolled a 3
+Computer turn total is 3
+Computer rolled a 4
+computer: 15
+human: 36
+ 
+It is now human's turn 
+ 
+Do you want to roll a dice (Y/N)?: 
+y
+You rolled a 4
+Your turn total is 15
+computer: 15
+human: 51
+ 
+It is now computer's turn 
+ 
+Computer rolled a 3
+Computer turn total is 3
+Computer rolled a 3
+Computer turn total is 6
+Computer rolled a 3
+Computer turn total is 9
+Computer rolled a 2
+computer: 15
+human: 51
+ 
+It is now human's turn 
+ 
+Do you want to roll a dice (Y/N)?: 
+y
+You rolled a 2
+Your turn total is 0
+computer: 15
+human: 51
+ 
+It is now computer's turn 
+ 
+Computer rolled a 2
+computer: 15
+human: 51
+ 
+It is now human's turn 
+ 
+Do you want to roll a dice (Y/N)?: 
+n
+computer: 15
+human: 51
+ 
+It is now computer's turn 
+ 
+Computer rolled a 6
+Computer turn total is 6
+Computer rolled a 1
+Computer turn total is 7
+Computer rolled a 1
+Computer turn total is 8
+Computer rolled a 1
+Computer turn total is 9
+Computer rolled a 6
+Computer turn total is 15
+computer: 30
+human: 51
+ 
+It is now human's turn 
+ 
+Do you want to roll a dice (Y/N)?: 
+y
+You rolled a 4
+Your turn total is 15
+computer: 30
+human: 66
+ 
+It is now computer's turn 
+ 
+Computer rolled a 2
+computer: 30
+human: 66
+ 
+It is now human's turn 
+ 
+Do you want to roll a dice (Y/N)?: 
+y
+You rolled a 5
+Your turn total is 0
+computer: 30
+human: 66
+ 
+It is now computer's turn 
+ 
+Computer rolled a 2
+computer: 30
+human: 66
+ 
+It is now human's turn 
+ 
+Do you want to roll a dice (Y/N)?: 
+y
+You rolled a 5
+Your turn total is 0
+computer: 30
+human: 66
+ 
+It is now computer's turn 
+ 
+Computer rolled a 4
+computer: 45
+human: 66
+ 
+It is now human's turn 
+ 
+Do you want to roll a dice (Y/N)?: 
+n
+computer: 45
+human: 66
+ 
+It is now computer's turn 
+ 
+Computer rolled a 4
+computer: 60
+human: 66
+ 
+It is now human's turn 
+ 
+Do you want to roll a dice (Y/N)?: 
+y
+You rolled a 4
+Your turn total is 15
+computer: 60
+human: 81
+ 
+Congratulations! human won this round of Jeopardy Dice! 

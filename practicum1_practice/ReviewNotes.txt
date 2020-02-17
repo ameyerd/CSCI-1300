@@ -1,0 +1,71 @@
+Data Types:
+1. int (for integers)
+    - int myInt = 5;
+2. char (for characters)
+    - char myChar = 'c';
+3. float (for floating-point numbers)
+    - float myFloat = 4.4531;
+4. double (for double precision floating-point numbers)
+    - double myDouble = 4.4531;
+    
+Casting Example:
+    float variable = 10.2129;
+    int variable_as_int = (int)variable;
+    
+Arithmetic:
+    modulus = %
+    exponentiation = pow(x,n)
+    taking roots = pow(x, 1/n)
+    
+Output/Input:
+    cout << ....
+    cin >> ....
+    
+Functions:
+    return_type function_name(parameter_list)
+        {
+        //function_body
+        }
+
+If-else statements:
+    if (condition) 
+    {
+        // execute  code here
+    }
+    else if (condition) 
+    {
+        // execute code here
+    }
+    else 
+    {
+        // execute code here
+    }
+    
+Switch Statements:
+switch (n)
+{
+    case 1:
+    // code to be executed if n = 1;
+    break;
+    case 2:
+    // code to be executed if n = 2;
+    break;
+    default:
+    // code to be executed if n doesn’t match any cases
+}
+
+Logical Operators:
+    && - AND
+    || - OR
+    ! = NOT
+
+for loops:
+    for ( initialization expr; test expr; update expr)
+        {
+        //body of the loop
+        //statements we want to execute
+        }
+        
+    initialization expr example,, int i=0;
+    test expr (test the condition) example,, i <= 10;
+    update expr (increment/decrement) example,, i++;

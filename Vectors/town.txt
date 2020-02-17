@@ -1,0 +1,6 @@
+1,1,Fleming,123,Wong,5.5
+1,2,Naidu,53,Ku,42.1,Soni,78
+1,3,Umada,33,Patil,10.5,Ladd,39
+2,1,Laudenschlager,62.5,Behera,84,Sankaralingam,25
+2,2,Reddy,80.5
+2,3,Palavalli,50,Hao,58

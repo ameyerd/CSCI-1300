@@ -1,0 +1,11 @@
+Formatted output - setw()
+    use setw manipulator to the width of the next output field
+    cout <<setw(8) << .. 
+    BEFORE every colum's data
+    
+    
+FUNCTIONS
+    a function is..
+        is a sequence of instructions with a name
+        packages a computation into a form that can be easily understood and reused
+        
